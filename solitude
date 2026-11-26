@@ -1,0 +1,80 @@
+background =  #101315
+foreground =  #cacccc
+cursor-color =  #a5aeb4
+selection-background =  #343d41
+selection-foreground = #343d41
+
+palette = 0=#101315 
+palette = 1=#565d60
+palette = 2=#343d41
+#palette = 3=#d9dbdc
+palette = 3=#e39638
+palette = 4=#798186
+palette = 5=#aeaeae
+palette = 6=#707070
+palette = 7=#cacccc
+palette = 8=#4b4e55
+palette = 9=#de6145 
+palette = 10=#343d41
+palette = 11=#c9c2b4
+palette = 12=#5d6367
+palette = 13=#9a9a9a
+palette = 14=#707070
+palette = 15=#a5aeb4
+
+# background = {{ background }}
+# foreground = {{ foreground }}
+# cursor-color = {{ bright_foreground }}
+# selection-background = {{ selection_background }}
+# selection-foreground = {{ selection_foreground }}
+
+# palette = 0={{ background }}
+# palette = 1={{ red }}
+# palette = 2={{ green }}
+# palette = 3={{ yellow }}
+# palette = 4={{ blue }}
+# palette = 5={{ magenta }}
+# palette = 6={{ cyan }}
+# palette = 7={{ foreground }}
+# palette = 8={{ muted }}
+# palette = 9={{ bright_red }}
+# palette = 10={{ bright_green }}
+# palette = 11={{ bright_yellow }}
+# palette = 12={{ bright_blue }}
+# palette = 13={{ bright_magenta }}
+# palette = 14={{ bright_cyan }}
+# palette = 15={{ bright_foreground }}
+
+
+# accent = "#798186"
+# selection = "#343d41"
+# muted = "#4b4e55"
+
+# background = "#101315"
+# dark_background = "#0c0e10"
+# darker_background = "#080a0b"
+# lighter_background = "#101315"
+
+# foreground = "#cacccc"
+# dark_foreground = "#4b4e55"
+# light_foreground = "#cbc2be"
+# bright_foreground = "#a5aeb4"
+
+# hyprland_active_border = "rgba(798186ee) rgba(caccccee)"
+# hyprland_inactive_border = "rgb(1e1e1e)"
+# active_border_color = "#a8adb0"
+# active_tab_background = "#798186"
+
+# red = "#565d60"
+# yellow = "#d9dbdc"
+# green = "#9fa5a9"
+# cyan = "#707070"
+# blue = "#798186"
+# magenta = "#aeaeae"
+
+# bright_red = "#de6145"
+# bright_yellow = "#c9c2b4"
+# bright_green = "#343d41"
+# bright_cyan = "#707070"
+# bright_blue = "#5d6367"
+# bright_magenta = "#9a9a9a"
